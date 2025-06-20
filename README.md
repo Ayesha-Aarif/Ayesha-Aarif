@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently final year student at PUCIT<br>Ask me about Problem Solving
+# Software Engineer | PUCIT
 
 
 # 💻 Tech Stack:
@@ -8,9 +7,6 @@ I'm currently final year student at PUCIT<br>Ask me about Problem Solving
 ![](https://github-readme-stats.vercel.app/api?username=Ayesha-Aarif&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Aarif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Aarif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ayesha-Aarif&limit=5&theme=dark&combine_all_yearly_contributions=true)
